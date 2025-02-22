@@ -1,0 +1,55 @@
+body {
+    font-family: 'Vazir', sans-serif;
+    background-image: url('https://i.postimg.cc/ZndtMGmB/1ee32392-fbdd-4780-af0a-0e155c6d638a.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    top: 20%;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+.content-box {
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    color: black;
+    text-align: right;
+}
+
+h2 {
+    color: black;
+    margin: 0 0 10px 0;
+    font-size: 1.8em;
+}
+
+p {
+    color: black;
+    font-size: 1.2em;
+    line-height: 1.5;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
