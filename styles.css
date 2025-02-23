@@ -34,18 +34,18 @@ h1 {
     text-align: right;
 }
 
-.content-box:first-child {
+.content-box:first-of-type {
     background-color: rgba(173, 216, 230, 0.8);
 }
 
-.content-box:last-child {
+.content-box:last-of-type {
     background-color: rgba(173, 216, 230, 0.8);
 }
 
 h2 {
     color: black;
     margin: 0 0 10px 0;
-    font-size: 1.8em;
+    font-size: 1.8em; 
 }
 
 p {
