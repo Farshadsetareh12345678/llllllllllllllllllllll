@@ -34,6 +34,14 @@ h1 {
     text-align: right;
 }
 
+.content-box:first-child {
+    background-color: rgba(173, 216, 230, 0.8);
+}
+
+.content-box:last-child {
+    background-color: rgba(173, 216, 230, 0.8);
+}
+
 h2 {
     color: black;
     margin: 0 0 10px 0;
@@ -44,6 +52,13 @@ p {
     color: black;
     font-size: 1.2em;
     line-height: 1.5;
+}
+
+.content-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin: 10px 0;
 }
 
 footer {
