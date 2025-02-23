@@ -1,6 +1,6 @@
 body {
     font-family: 'Vazir', sans-serif;
-    background-image: url('https://i.postimg.cc/hPkxTJF7/Chemistry-Inspired-Surface-Pattern-Design.jpg');
+    background-image: url('https://i.postimg.cc/ZndtMGmB/1ee32392-fbdd-4780-af0a-0e155c6d638a.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -32,6 +32,8 @@ h1 {
     max-width: 1000px;
     color: black;
     text-align: right;
+    direction: rtl;
+    unicode-bidi: embed;
 }
 
 .content-box:first-of-type {
