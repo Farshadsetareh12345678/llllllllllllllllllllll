@@ -1,10 +1,10 @@
 body {
     font-family: 'Vazir', sans-serif;
-    background-image: url('https://i.postimg.cc/hPkxTJF7/Chemistry-Inspired-Surface-Pattern-Design.jpg');
+    background-image: url('https://i.postimg.cc/ZndtMGmB/1ee32392-fbdd-4780-af0a-0e155c6d638a.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    color: #333;
+    background-attachment: fixed;
     margin: 0;
     padding: 0;
 }
@@ -45,7 +45,7 @@ h1 {
 h2 {
     color: black;
     margin: 0 0 10px 0;
-    font-size: 1.8em; 
+    font-size: 1.8em;
 }
 
 p {
